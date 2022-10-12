@@ -2,7 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website contents
 
-hello my name is lee han keat
-bla bla hehe hoho haha
+1. index.html
